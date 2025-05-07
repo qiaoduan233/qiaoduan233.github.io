@@ -2,7 +2,7 @@
 layout: page
 title: GSMF
 description: Galaxy Stellar Mass Functions
-img: assets/img/publication_preview/star_bursts.jpg
+img: assets/img/project_2_pictures/evolving_mass_functions.png
 importance: 1
 category: Astronomy
 related_publications: true
