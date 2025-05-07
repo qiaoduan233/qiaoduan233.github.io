@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Cambridge</p>
-    <p>Cambridge, CB3 0EZ</p>
+    <p>(✪ω✪)</p>
+    <p>(ﾉ>ω<)ﾉ</p>
+    <p>(◑ω◐)<p>
+    <p>(≧∀≦)ゞ<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +29,11 @@ latest_posts:
 ---
 
 <p>
-  <i class="fa fa-envelope"></i> <a href="mailto:miller.duan@outlook.com">miller.duan@outlook.com</a>
+  <i class="fa fa-envelope"></i>
+  <a href="mailto:miller.duan@outlook.com">miller.duan@outlook.com</a>
+  &nbsp;&nbsp;&nbsp;
+  <i class="fa fa-graduation-cap"></i>
+  <a href="mailto:qd231@cam.ac.uk">qd231@cam.ac.uk</a>
 </p>
 
 Hi hi! I’m Qiao, an astronomer studying galaxy formation and evolution using the James Webb Space Telescope (JWST). I’m especially interested in:
