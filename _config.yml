@@ -148,8 +148,8 @@ collections:
     defaults:
       layout: post
     output: true
-  #projects:
-  # output: true
+  projects:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -195,8 +195,8 @@ exclude:
   - _posts/
   - _pages/blog.md
   ### Project Exclude:
-  - _projects/
-  - _pages/projects.md
+  #- _projects/
+  #- _pages/projects.md
   ### Reposi Exclude:
   - _pages/repositories.md
   - _includes/repository/
