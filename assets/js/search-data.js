@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -29,7 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-work-on-galaxy-mergers-in-the-epoch-of-reionization-at-the-crisol-conference-spain",
           title: 'Presented my work on Galaxy Mergers in the Epoch of Reionization at the...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-galaxy-mergers",
+          title: 'Galaxy Mergers',
+          description: "Galaxy Mergers in the Epoch of Reionization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
