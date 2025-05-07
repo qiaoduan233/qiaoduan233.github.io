@@ -84,15 +84,6 @@
           {%- endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
-        {%- comment -%}
-          {%- if author_is_self -%}
-            <em>
-              {{- author.first }}
-              {{ author_last_html -}}
-            </em>
-          {%- else -%}
-        {%- endcomment -%}
-
         {%- if author_is_self -%}
           <strong><u>{{- author.first }} {{ author_last_html -}}</u></strong>
         {%- else -%}
