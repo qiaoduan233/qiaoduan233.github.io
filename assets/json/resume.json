@@ -137,23 +137,23 @@
       ]
     }
   ],
-"references": [
-  {
-    "name": "<a href=\"https://www.tacchella.space\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Sandro Tacchella</strong></a>",
-    "icon": "fa-solid fa-rainbow",
-    "reference": "Ph.D. Advisor"
-  },
-  {
-    "name": "<a href=\"https://www.robertomaiolino.net/\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Roberto Maiolino</strong></a>",
-    "icon": "fa-solid fa-rainbow",
-    "reference": "Ph.D. Advisor"
-  },
-  {
-    "name": "<a href=\"https://en.wikipedia.org/wiki/Christopher_Conselice\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Christopher J. Conselice</strong></a>",
-    "icon": "fa-solid fa-rainbow",
-    "reference": "Undergraduate Advisor"
-  }
-],
+  "references": [
+    {
+      "name": "<a href=\"https://www.tacchella.space\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Sandro Tacchella</strong></a>",
+      "icon": "fa-solid fa-rainbow",
+      "reference": "Ph.D. Advisor"
+    },
+    {
+      "name": "<a href=\"https://www.robertomaiolino.net/\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Roberto Maiolino</strong></a>",
+      "icon": "fa-solid fa-rainbow",
+      "reference": "Ph.D. Advisor"
+    },
+    {
+      "name": "<a href=\"https://en.wikipedia.org/wiki/Christopher_Conselice\" target=\"_blank\" style=\"color:#b508ab;\"><strong>Professor Christopher J. Conselice</strong></a>",
+      "icon": "fa-solid fa-rainbow",
+      "reference": "Undergraduate Advisor"
+    }
+  ],
 
   "_projects": [
     {

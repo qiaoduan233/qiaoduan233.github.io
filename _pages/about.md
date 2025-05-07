@@ -24,7 +24,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 <p>
@@ -32,6 +31,7 @@ latest_posts:
 </p>
 
 Hi hi! I’m Qiao, an astronomer studying galaxy formation and evolution using the James Webb Space Telescope (JWST). I’m especially interested in:
-- **Galaxy Stellar Populations** and **Star-Forming Properties**  
+
+- **Galaxy Stellar Populations** and **Star-Forming Properties**
 - **Galaxy Mergers** and their role in galaxy mass assembly, as well as merger-driven <u>star formation</u> and <u>AGN activity</u>
 - Spectral Energy Distribution (SED) fitting — I’m currently co-developing a new mode of the Prospector SED fitting code, **Prospector-γ**, with my Ph.D. advisor, [Professor Sandro Tacchella](https://www.tacchella.space).
