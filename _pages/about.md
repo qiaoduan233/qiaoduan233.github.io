@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 1<sup>st</sup> Year Ph.D. Student, University of Cambridge, Kavli Institute for Cosmology
 
@@ -36,8 +36,11 @@ latest_posts:
   <a href="mailto:qd231@cam.ac.uk">qd231@cam.ac.uk</a>
 </p>
 
-Hi hi! I’m Qiao, an astronomer studying galaxy formation and evolution using the James Webb Space Telescope (JWST). I’m especially interested in:
+Hi hi! I’m Qiao — an astronomer studying galaxy formation and evolution with the James Webb Space Telescope (JWST). I'm super happy to be working with [Professor Sandro Tacchella](https://www.tacchella.space) and [Professor Roberto Maiolino](https://www.robertomaiolino.net/) as my Ph.D. advisors.
+I'm especially interested in:
 
 - **Galaxy Stellar Populations** and **Star-Forming Properties**
 - **Galaxy Mergers** and their role in galaxy mass assembly, as well as merger-driven <u>star formation</u> and <u>AGN activity</u>
-- Spectral Energy Distribution (SED) fitting — I’m currently co-developing a new mode of the Prospector SED fitting code, **Prospector-γ**, with my Ph.D. advisor, [Professor Sandro Tacchella](https://www.tacchella.space).
+- **Spectral Energy Distribution (SED) fitting** — I’m currently co-developing a new mode of the Prospector SED fitting code, **Prospector-γ**, with Sandro.
+
+I completed my four-year Undergraduate Master's degree at the University of Manchester, where I had the great opportunity to join [Professor Christopher Conselice](https://sites.google.com/view/cconselice/home?authuser=0)'s research group. During that time, I developed a deep fascination with Galaxies 💫

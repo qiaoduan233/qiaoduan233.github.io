@@ -8,7 +8,7 @@ category: Astronomy
 related_publications: true
 ---
 
-In this project, we conducted the first comprehensive analysis of
+This is my undergraduate project, supervised by Professor Christopher Conselice. In this project, we conducted the first comprehensive analysis of
 <strong>Galaxy Pair Fractions</strong>, <strong>Merger Rates</strong>, and
 <strong>Stellar Mass Accretion Rates</strong> at <strong>z > 6</strong>.
 [<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..606D/abstract" target="_blank">Paper Link</a>]
