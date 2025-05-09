@@ -41,7 +41,7 @@ Hi hi! I’m Qiao — an astronomer studying galaxy formation and evolution with
 I'm especially interested in:
 
 - **Galaxy Stellar Populations** and **Star-Forming Properties**
-- **Galaxy Mergers** and their role in galaxy mass assembly, as well as merger-driven <u>star formation</u> and <u>AGN activity</u>
+- **Galaxy Mergers**, including pair fractions, merger rates, and their role in galaxy mass assembly, as well as merger-driven <u>Star Formation</u> and <u>AGN Activity</u>
 - **Spectral Energy Distribution (SED) fitting** — I’m currently co-developing a new mode of the Prospector SED fitting code, **Prospector-γ**, with Sandro.
 
-I completed my four-year Undergraduate Master's degree at the University of Manchester, where I had the great opportunity to join [Professor Christopher Conselice](https://sites.google.com/view/cconselice/home?authuser=0)'s research group. During that time, I developed a deep fascination with Galaxies 💫
+I did my four-year Undergraduate Master's degree at the University of Manchester, where I had the great opportunity to join [Professor Christopher Conselice](https://sites.google.com/view/cconselice/home?authuser=0)'s EPOCHS research group. During that time, I developed a deep fascination with Galaxies 💫
