@@ -36,7 +36,8 @@ latest_posts:
   <a href="mailto:qd231@cam.ac.uk">qd231@cam.ac.uk</a>
 </p>
 
-Hi hi! I’m Qiao — an astronomer studying galaxy formation and evolution with the James Webb Space Telescope (JWST). I'm super happy to be working with [Professor Sandro Tacchella](https://www.tacchella.space) and [Professor Roberto Maiolino](https://www.robertomaiolino.net/) as my Ph.D. advisors.
+Hi hi! I’m Qiao — an astronomer studying galaxy formation and evolution with the James Webb Space Telescope (JWST), working with [Professor Sandro Tacchella](https://www.tacchella.space) and [Professor Roberto Maiolino](https://www.robertomaiolino.net/). I am also a member of the JWST [JADES](https://jades-survey.github.io/) and [PEARLS](https://sites.google.com/view/jwstpearls) teams.
+
 I'm especially interested in:
 
 - **Galaxy Stellar Populations** and **Star-Forming Properties**
